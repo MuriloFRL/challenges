@@ -46,5 +46,5 @@ curl --location --request GET 'http://localhost:3000/get-vacant-appointments'
 ```
 ## Postman collection
 ```
-curl --location --request GET 'http://localhost:3000/get-vacant-appointments'
+http://localhost:3000/get-vacant-appointments
 ```
