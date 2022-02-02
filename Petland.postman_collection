@@ -1,0 +1,22 @@
+{
+	"info": {
+		"_postman_id": "f1766e4d-c0b4-4bd8-905f-12f997907bbf",
+		"name": "Pet",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Appointments",
+			"item": [
+				{
+					"name": "Get Vacant Appointments",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}

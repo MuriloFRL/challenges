@@ -32,3 +32,19 @@ availableTimes: ["08:00", "08:30", "09:00, "10:00", ...]
 
 
  ##### Pronto! Basta aguardar que vamos entrar em contato
+
+
+## Inicialização
+```
+npm install
+npm run start
+```
+
+## Request Exemplo
+```
+curl --location --request GET 'http://localhost:3000/get-vacant-appointments'
+```
+## Postman collection
+```
+curl --location --request GET 'http://localhost:3000/get-vacant-appointments'
+```

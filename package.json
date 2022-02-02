@@ -2,9 +2,10 @@
   "name": "challenges",
   "version": "1.0.0",
   "description": "O objetivo do exercício é verificar sua familiaridade com Nodejs, lógica e organização do código",
-  "main": "index.js",
+  "main": "src/app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/app.js"
   },
   "repository": {
     "type": "git",
